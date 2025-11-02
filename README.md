@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DreadHex</h1>
 <h3 align="center">A passionate VAPT and Security Researcher</h3>
 <h3 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjFodzhsdWY3eW5lb2dvcjZpazZmNnNzMWJoNW9tY3gxMWFjbzRhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25UxpWoNBu8nOtURm9/giphy.gif" align="center" height=400 width=400 alt="programmer gif">
+<img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXk3Y3cxcXF5YXE0ZHV5MTZvenk5OXFjYXJrc2RhbmF0MWl1cGo5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/seJfdTQF6dxLK8I5NM/giphy.webp" align="center" height=400 width=400 alt="programmer gif">
 </h3>
 - 🌱 I’m currently learning **Bug Hunting and Penetration Testing**
 
