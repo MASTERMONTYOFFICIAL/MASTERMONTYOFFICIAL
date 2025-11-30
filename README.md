@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zer0pwned</h1>
-<h3 align="center">A passionate VAPT and Security Researcher</h3>
+<h3 align="center">A passionate Learner</h3>
 <h3 align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXk3Y3cxcXF5YXE0ZHV5MTZvenk5OXFjYXJrc2RhbmF0MWl1cGo5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/seJfdTQF6dxLK8I5NM/giphy.webp" align="center" height=400 width=400 alt="programmer gif">
 </h3>
