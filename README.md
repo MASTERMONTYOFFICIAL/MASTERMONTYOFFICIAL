@@ -20,35 +20,6 @@ I'm a passionate **Security Researcher** and **Bug Hunter** dedicated to safegua
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/durgeshwar-singh-01b43a377)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@durgeshwersingh)
 
-<details>
-  <summary><b>📌 More about me</b></summary>
-  <br>
-  <ul>
-    <li><b>Name:</b> Durgeshwar Singh</li>
-    <li><b>Based in:</b> India</li>
-    <li><b>Roles:</b> Bug Hunter | Security Researcher | Forensic Analyst</li>
-    <li><b>Core expertise:</b> Vulnerability assessment.</li>
-    <li><b>Currently deepening:</b> Web application security, mobile pentesting, and Web3 security.</li>
-    <li><b>Community:</b> Active contributor to tech communities and content creator focused on cybersecurity education.</li>
-  </ul>
-</details>
-<br>
-
----
-
-<h2 id="present_status">🔭 Present Status</h2>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-👉 Actively hunting for bugs and contributing to responsible disclosure programs.  
-👉 Building practical security tools for the community.  
-👉 Writing detailed walkthroughs and creating educational content on YouTube.  
-👉 Exploring advanced topics in mobile application security and blockchain forensics.  
-👉 Continuously expanding my skillset — currently diving into **Web3 security**.
-
-`“The only way to do great work is to love what you do.” – Steve Jobs`
-
----
 
 <h2 id="knowledge_skills">📚 Knowledge & Skills</h2>
 
@@ -75,22 +46,6 @@ I'm a passionate **Security Researcher** and **Bug Hunter** dedicated to safegua
 </div>
 
 ---
-
-<h2 id="github_stats">📊 GitHub Stats</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-[![Durgeshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASTERMONTYOFFICIAL&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/MASTERMONTYOFFICIAL/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MASTERMONTYOFFICIAL&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
-
-<p align="left">
-  <a href="https://github.com/MASTERMONTYOFFICIAL/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERMONTYOFFICIAL&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"/>
-  </a>
-</p>
-
-<br><br>
 
 ---
 
