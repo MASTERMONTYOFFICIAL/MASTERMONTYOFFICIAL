@@ -1,67 +1,330 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg4cXczYnRhZWtkenh4a3p5OThqZ2Fmbms4ZTBmYW02cHZmMm1wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FycSuFILgWwfe/giphy.gif" width="70%" height="auto"/></p>
+# `root@04xpwn:~# whoami`
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Durgeshwar+Singh;Welcome+to+my+profile!;Security+Researcher+%26+Bug+Hunter" alt="Title"/>
-  </a>
-</div>
+```text
+ $$$$$$\  $$\   $$\ $$\   $$\ $$$$$$$\  $$\      $$\ $$\   $$\ 
+$$$ __$$\ $$ |  $$ |$$ |  $$ |$$  __$$\ $$ | $\  $$ |$$$\  $$ |
+$$$$\ $$ |$$ |  $$ |\$$\ $$  |$$ |  $$ |$$ |$$$\ $$ |$$$$\ $$ |
+$$\$$\$$ |$$$$$$$$ | \$$$$  / $$$$$$$  |$$ $$ $$\$$ |$$ $$\$$ |
+$$ \$$$$ |\_____$$ | $$  $$<  $$  ____/ $$$$  _$$$$ |$$ \$$$$ |
+$$ |\$$$ |      $$ |$$  /\$$\ $$ |      $$$  / \$$$ |$$ |\$$$ |
+\$$$$$$  /      $$ |$$ /  $$ |$$ |      $$  /   \$$ |$$ | \$$ |
+ \______/       \__|\__|  \__|\__|      \__/     \__|\__|  \__|
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+                  04xPWN
 
-<h2 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> 
-  Hi there, I'm Durgeshwar Singh
-</h2>
+    ──[ FIND • BREAK • LEARN • SECURE ]──
 
-I'm a passionate **Security Researcher** and **Bug Hunter** dedicated to safeguarding digital assets and building a more secure online community. With a strong foundation in cybersecurity, I specialize in vulnerability assessment, web security, and penetration testing. My goal is to continuously learn and contribute to open‑source projects while sharing knowledge with the global security community.
+```
 
-🔗 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/durgeshwar-singh-01b43a377)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@durgeshwersingh)
+> **Security Researcher • Bug Hunter • Offensive Security Enthusiast**
 
+```bash
+$ whoami
+04xpwn
 
-<h2 id="knowledge_skills">📚 Knowledge & Skills</h2>
+$ cat /etc/motd
+Break systems.
+Understand them.
+Secure them.
 
-<br>
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-</div>
+$ status
+[+] Hunting vulnerabilities
+[+] Breaking web applications
+[+] Testing APIs
+[+] Learning offensive security
+[+] Building security tools
+[+] Reporting responsibly
+```
 
 ---
 
+## `> ABOUT_ME`
+
+I'm a passionate **Security Researcher & Bug Hunter** focused on understanding how applications fail — and how they can be made stronger.
+
+My primary interests revolve around:
+
+* 🕷️ **Web Application Security**
+* 🔌 **API Security & Pentesting**
+* 🐛 **Vulnerability Research**
+* 🎯 **Bug Bounty Hunting**
+* 🔐 **Authentication & Authorization flaws**
+* 🪪 **JWT & Session Security**
+* 🌐 **Networking & Protocol Security**
+* 🐧 **Linux & Security Tooling**
+* ⚔️ **Offensive Security**
+
+I don't want to simply run tools.
+
+> **I want to understand what happens underneath them.**
+
 ---
 
-<h2 align="center">🏆 Let's Connect & Collaborate</h2>
-<p align="center">
-  I'm always open to interesting conversations, collaboration opportunities, and security research discussions. Feel free to reach out!
-</p>
-<p align="center">
-  <a href="https://in.linkedin.com/in/durgeshwar-singh-01b43a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@durgeshwersingh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+## `> CURRENTLY_HUNTING`
 
-<p align="center">
-  <b><i>"Don't look to give up."</i></b>
-</p>
-<p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  <!-- Replace the above snake animation with your own by setting up a GitHub Action: https://github.com/Platane/snk -->
-</p>
+```text
+[ WEB ]
+ ├── Authentication Bypass
+ ├── Authorization / BOLA
+ ├── SSRF
+ ├── XSS
+ ├── LFI / Path Traversal
+ ├── SQL Injection
+ ├── CSRF
+ ├── Race Conditions
+ ├── Web Cache Poisoning
+ └── Web Cache Deception
+
+[ API ]
+ ├── BOLA / IDOR
+ ├── Mass Assignment
+ ├── Excessive Data Exposure
+ ├── JWT Attacks
+ ├── Business Logic Flaws
+ └── Authentication Weaknesses
+
+[ NETWORK ]
+ ├── TCP/IP
+ ├── IPv4 & Subnetting
+ ├── DNS
+ ├── HTTP
+ ├── Reverse Proxies
+ ├── CDN Architecture
+ └── Network Security
+```
+
+---
+
+## `> ARSENAL`
+
+```text
+Burp Suite       ████████████████████
+Nmap             ███████████████████░
+Metasploit       ██████████████████░░
+Linux / Kali     ████████████████████
+Python           ███████████████░░░░░
+Bash             █████████████████░░░
+JavaScript       ████████████░░░░░░░░
+Docker           ██████████████░░░░░░
+Git              █████████████████░░░
+```
+
+### Tools I Work With
+
+`Burp Suite` • `Nmap` • `Metasploit` • `Nuclei` • `httpx`
+`Subfinder` • `Katana` • `ffuf` • `curl` • `jq` • `Git`
+`Docker` • `Kali Linux` • `Python` • `Bash`
+
+---
+
+## `> KNOWLEDGE_BASE`
+
+### Web Security
+
+```text
+HTTP/HTTPS
+DNS
+Cookies & Sessions
+Authentication
+Authorization
+CORS
+CSRF
+XSS
+SSRF
+LFI
+SQLi
+XXE
+File Upload
+Race Conditions
+Cache Poisoning
+Cache Deception
+Business Logic
+```
+
+### API Security
+
+```text
+REST APIs
+API Authentication
+JWT
+JWS / JWE
+OAuth concepts
+BOLA / IDOR
+Mass Assignment
+Rate Limiting
+Excessive Data Exposure
+API Business Logic
+```
+
+### Networking
+
+```text
+TCP/IP
+OSI Model
+IPv4
+Subnetting
+MAC / ARP
+DNS
+SMTP / IMAP / POP3
+Reverse Proxy
+CDN
+HTTP Caching
+```
+
+---
+
+## `> RESEARCH_LOG`
+
+```text
+[+] Vulnerability research
+[+] Bug bounty hunting
+[+] CTF / security labs
+[+] Web & API penetration testing
+[+] Security automation
+[+] Open-source security tooling
+[+] Responsible disclosure
+```
+
+Some of my research has involved vulnerabilities such as:
+
+```text
+LFI
+Authentication Bypass
+Information Disclosure
+Sensitive Data Exposure
+Stored XSS
+API Authorization Issues
+Business Logic Flaws
+```
+
+---
+
+## `> ACHIEVEMENTS`
+
+🏆 **Hackathon — 4th Place**
+
+🐛 Discovered and responsibly reported multiple web application vulnerabilities.
+
+🔐 Security research acknowledged by organizations through vulnerability disclosure programs.
+
+🛰️ **NASA Vulnerability Disclosure Program** — security research/report accepted.
+
+🧪 Continuous hands-on practice through platforms such as **PortSwigger Web Security Academy**, **TryHackMe**, and CTF environments.
+
+---
+
+## `> CURRENT_MISSION`
+
+```text
+                   ┌───────────────────┐
+                   │   ATTACK SURFACE  │
+                   └─────────┬─────────┘
+                             │
+                             ▼
+                    ┌────────────────┐
+                    │ RECON / ENUM   │
+                    └───────┬────────┘
+                            │
+                            ▼
+                    ┌────────────────┐
+                    │ FIND WEAKNESS  │
+                    └───────┬────────┘
+                            │
+                            ▼
+                    ┌────────────────┐
+                    │   EXPLOIT      │
+                    └───────┬────────┘
+                            │
+                            ▼
+                    ┌────────────────┐
+                    │ UNDERSTAND WHY │
+                    └───────┬────────┘
+                            │
+                            ▼
+                    ┌────────────────┐
+                    │ REPORT / FIX   │
+                    └────────────────┘
+```
+
+> **The objective isn't to destroy systems.
+> The objective is to understand how they can be broken — before someone else does.**
+
+---
+
+## `> LEARNING`
+
+```bash
+$ tail -f /var/log/learning.log
+
+[+] Advanced Web Security
+[+] API Penetration Testing
+[+] Network Engineering
+[+] Offensive Security
+[+] Vulnerability Research
+[+] Security Automation
+[+] Reverse Engineering
+```
+
+### Current Philosophy
+
+> **Tools can find vulnerabilities.
+> Understanding finds the root cause.**
+
+---
+
+## `> OPEN_SOURCE`
+
+I enjoy building and experimenting with security-focused tools, scripts, automation, and proof-of-concept projects.
+
+```bash
+git clone https://github.com/04xpwn
+cd 04xpwn
+chmod +x *
+./hunt.sh
+```
+
+---
+
+## `> TERMINAL`
+
+```console
+┌──(04xpwn㉿kali)-[~]
+└─$ ./mindset.sh
+
+[+] Curiosity      : ACTIVE
+[+] Learning       : INFINITE
+[+] Recon          : RUNNING
+[+] Research       : RUNNING
+[+] Exploitation   : CONTROLLED
+[+] Ethics         : ENABLED
+[+] Sleep          : NOT_FOUND
+```
+
+---
+
+## `> CONNECT`
+
+If you're interested in **cybersecurity, bug bounty, web security, API security, or offensive security**, feel free to connect.
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│          FIND → BREAK → LEARN           │
+│                                         │
+│             0 4 x p w n                 │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+**Security is not about knowing every tool.
+It's about knowing where to look.**
+
+---
+
+```bash
+$ echo "Stay curious. Keep hacking. Hack responsibly."
+Stay curious. Keep hacking. Hack responsibly.
+
+$ exit
+Connection closed.
+```
